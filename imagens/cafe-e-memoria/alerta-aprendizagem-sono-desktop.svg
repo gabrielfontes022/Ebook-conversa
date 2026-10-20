@@ -1,0 +1,10 @@
+<svg viewBox="0 0 760 265" role="img" aria-labelledby="pillars-title pillars-desc" xmlns="http://www.w3.org/2000/svg">
+                  <title id="pillars-title">Três processos para entender café e estudo</title><desc id="pillars-desc">Estado de alerta: estar desperto. Aprendizagem: compreender e praticar. Sono: participar da consolidação das lembranças. São processos diferentes, relevantes para interpretar os efeitos da cafeína.</desc>
+                  <rect width="760" height="265" rx="7" fill="#f2e5d4"/>
+                  <g font-family="Arial,sans-serif" text-anchor="middle"><text x="380" y="35" font-size="11" font-weight="700" letter-spacing="1.5" fill="#6c4229">UMA XÍCARA, TRÊS PROCESSOS</text>
+                  <g transform="translate(135 102)"><circle r="27" fill="#fffefa"/><circle r="11" fill="none" stroke="#8a5736" stroke-width="1.8"/><path d="M0-16v-5m0 37v5m16-21h5m-37 0h-5m9-12-4-4m28 28 4 4m-4-28 4-4m-28 28-4 4" stroke="#8a5736" stroke-width="1.8" stroke-linecap="round"/><text y="59" font-size="17" font-weight="700" fill="#24463b">Alerta</text><text y="85" font-size="13" fill="#58665e">Estar desperto</text></g>
+                  <path d="M253 76v107m254-107v107" stroke="#cfbfa8"/>
+                  <g transform="translate(380 102)"><circle r="27" fill="#fffefa"/><path d="M-15-12c7-2 12 0 15 3 3-3 8-5 15-3v24c-7-2-12 0-15 3-3-3-8-5-15-3zm15 3v24" fill="none" stroke="#8a5736" stroke-width="1.8" stroke-linejoin="round"/><text y="59" font-size="17" font-weight="700" fill="#24463b">Aprendizagem</text><text y="85" font-size="13" fill="#58665e">Compreender e praticar</text></g>
+                  <g transform="translate(625 102)"><circle r="27" fill="#fffefa"/><path d="M8-16a17 17 0 1 0 9 26A17 17 0 0 1 8-16Z" fill="none" stroke="#8a5736" stroke-width="1.8" stroke-linejoin="round"/><text y="59" font-size="17" font-weight="700" fill="#24463b">Sono</text><text y="85" font-size="13" fill="#58665e">Consolidar lembranças</text></g>
+                  <text x="380" y="237" font-size="12" fill="#6c4229">Sentir mais alerta não garante aprender ou lembrar melhor.</text></g>
+                </svg>
