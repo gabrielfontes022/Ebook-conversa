@@ -1,0 +1,58 @@
+PRIMARIUS CLUB EDITORIAL — TEMA PARA WORDPRESS
+
+1. Baixe o arquivo primarius-club.zip. Não extraia o ZIP para instalar pelo painel.
+2. No WordPress: Aparência > Temas > Adicionar novo > Enviar tema.
+3. Selecione o ZIP, instale e confira a prévia. Ative quando decidir aplicar o tema.
+4. Abra Aparência > Primarius Club e confira:
+   Responsável: Gabriel Fontes
+   E-mail: primariusclub@gmail.com
+   Serviços: mantenha 'Ainda não confirmado' até conferir o uso real.
+5. Clique em 'Preparar estrutura sem substituir conteúdo'. O tema cria apenas
+   categorias e páginas que não existem, preservando o conteúdo já cadastrado.
+6. Revise e publique as páginas de políticas. Defina a Política de Privacidade
+   correspondente no WordPress. As páginas existentes não são sobrescritas.
+7. Publique em Posts, escolha uma categoria e defina a Imagem destacada.
+   A home e as grades de categoria se atualizam automaticamente.
+
+O QUE ESTÁ INCLUÍDO
+
+- Logo vetorial original e versão para fundo escuro.
+- Sete capas e cores de destaque: Casa e Jardim, Ciência, Concursos Públicos,
+  Inovação Tecnológica, Negócios, Política e Viral.
+- Home com publicações recentes, destaques, paginação e faixas temáticas.
+- Categoria com grade própria; artigo; busca; contato; comentários; página 404.
+- Modelos institucionais: Sobre, Contato, Privacidade, Cookies, Termos de Uso
+  e Política Editorial. Sobre/Contato são publicados se novos; políticas ficam
+  em rascunho para revisão dos dados reais antes da publicação.
+
+SOBRE A PRÉVIA
+
+A imagem de apresentação foi capturada em um WordPress local de teste com
+posts ilustrativos. Esses posts e fotografias não são criados no seu site:
+o tema instalado utiliza suas publicações e imagens existentes.
+O site publicado não foi acessado para instalação nem foi alterado.
+
+CONTATO
+
+O formulário usa o sistema de e-mail do WordPress. Faça um envio de teste e
+confira a caixa de entrada/spam. A hospedagem ou um serviço SMTP deve estar
+configurado para a entrega real. Os testes do desenvolvimento interceptaram
+os e-mails localmente; nenhuma mensagem real foi enviada ao Gmail do usuário.
+
+LEVEZA E COMPATIBILIDADE
+
+O tema não usa fonte remota, carrossel, construtor de páginas ou biblioteca
+JavaScript externa. As ilustrações são SVG locais pequenos. A imagem principal
+é priorizada e as demais usam carregamento tardio e tamanhos responsivos quando
+disponíveis no WordPress. Fotos, hospedagem e plugins também afetam a carga.
+
+Preserve os plugins usados por posts existentes. Yoast pode continuar ativo:
+o tema mantém os pontos de integração do WordPress e não duplica sua marcação.
+
+Validação: WordPress 6.8.11 com PHP 8.3.33 e SQLite de teste; 147 verificações
+de navegador e 11 funcionais aprovadas. Sintaxe dos 23 arquivos PHP aprovada
+em PHP 7.4.33 e 8.3.33. Testes não equivalem à validação da sua hospedagem,
+entrega real de e-mail ou aprovação no Google AdSense.
+
+O pacote contém somente o tema, seus assets e documentação. Não inclui banco
+de dados, WordPress de teste, credenciais ou conteúdo demonstrativo.
